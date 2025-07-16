@@ -10,6 +10,6 @@ Dato un array di oggetti rappresentante un team di un’azienda, creare una pagi
 Bonus
 
 Rendere l’esercizio responsive, mandando a capo le card
-Aggiungere un form di agginta membri che permetta di visualizzare il nuovo membro sulla pagina (usate una foto qualunque, anche vostra se volete sentirvi parte del team! 😀)
+Aggiungere un form di aggiunta membri che permetta di visualizzare il nuovo membro sulla pagina (usate una foto qualunque, anche vostra se volete sentirvi parte del team! 😀)
 
 Buon Lavoro
