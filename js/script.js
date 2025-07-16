@@ -50,7 +50,7 @@ const generateCard = (members) => {
         <div class="card mb-3" >
           <div class="row g-0">
               <div class="col-md-4">
-                 <img src= "./img/${members.img}" alt="" class="img-fluid">
+                 <img src= "./${members.img}" alt="" class="img-fluid">
               </div>
               <div class="col-md-8 bg-dark text-white">
                <div class="card-body">
